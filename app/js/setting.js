@@ -5,5 +5,4 @@ var mycanvas = document.getElementById('canvas'),
     h = 350,
     score = 0,
     snake,
-    snakeSize = 10,
     food;
